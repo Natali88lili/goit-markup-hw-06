@@ -708,7 +708,7 @@ body {
   background-color: var(--ocean);
   border: none;
   border-radius: 2px;
-  background-image: url(../images/check.svg);
+  background-image: url(../Images/check.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
